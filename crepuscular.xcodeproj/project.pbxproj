@@ -18,6 +18,7 @@
 		6AD56BF0214BA3C0005EE03E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6AD56BEF214BA3BF005EE03E /* GoogleService-Info.plist */; };
 		6AD56BF2214BB117005EE03E /* signInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD56BF1214BB117005EE03E /* signInViewController.swift */; };
 		6AD56BF4214BD434005EE03E /* setTimeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD56BF3214BD434005EE03E /* setTimeViewController.swift */; };
+		6AD56BF6214FC9D8005EE03E /* textMessageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6AD56BF5214FC9D8005EE03E /* textMessageViewController.swift */; };
 		C6AE565E754AEFC505D8EB5D /* Pods_crepuscularUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 05E563D7DB90BEF8728F0641 /* Pods_crepuscularUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -58,6 +59,7 @@
 		6AD56BEF214BA3BF005EE03E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		6AD56BF1214BB117005EE03E /* signInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = signInViewController.swift; sourceTree = "<group>"; };
 		6AD56BF3214BD434005EE03E /* setTimeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = setTimeViewController.swift; sourceTree = "<group>"; };
+		6AD56BF5214FC9D8005EE03E /* textMessageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = textMessageViewController.swift; sourceTree = "<group>"; };
 		A63EFCEFA82FFC97F20E8FAB /* Pods-crepuscularTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-crepuscularTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-crepuscularTests/Pods-crepuscularTests.release.xcconfig"; sourceTree = "<group>"; };
 		AB2BB7299AF95F38DEFEF4DD /* Pods-crepuscular.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-crepuscular.debug.xcconfig"; path = "Pods/Target Support Files/Pods-crepuscular/Pods-crepuscular.debug.xcconfig"; sourceTree = "<group>"; };
 		CC1700553D6C20B818D193B2 /* Pods-crepuscularUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-crepuscularUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-crepuscularUITests/Pods-crepuscularUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 				6AD56BEF214BA3BF005EE03E /* GoogleService-Info.plist */,
 				6AD56BF1214BB117005EE03E /* signInViewController.swift */,
 				6AD56BF3214BD434005EE03E /* setTimeViewController.swift */,
+				6AD56BF5214FC9D8005EE03E /* textMessageViewController.swift */,
 			);
 			path = crepuscular;
 			sourceTree = "<group>";
@@ -450,6 +453,7 @@
 				6AD56BF2214BB117005EE03E /* signInViewController.swift in Sources */,
 				6AD56BF4214BD434005EE03E /* setTimeViewController.swift in Sources */,
 				6AD56BC2214B9DBD005EE03E /* AppDelegate.swift in Sources */,
+				6AD56BF6214FC9D8005EE03E /* textMessageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
