@@ -61,9 +61,4 @@ class textMessageViewController: UIViewController {
         textView.text = button7.titleLabel?.text
     }
     
-    
-    
-    
-    
-
 }
